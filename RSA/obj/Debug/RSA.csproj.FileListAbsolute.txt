@@ -1,0 +1,20 @@
+D:\Pa uchobe\RSA\RSA\bin\Debug\RSA.exe.config
+D:\Pa uchobe\RSA\RSA\bin\Debug\RSA.exe
+D:\Pa uchobe\RSA\RSA\bin\Debug\RSA.pdb
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.Form1.resources
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.exe
+D:\Pa uchobe\RSA\RSA\obj\Debug\RSA.pdb
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\bin\Debug\RSA.exe.config
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\bin\Debug\RSA.exe
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\bin\Debug\RSA.pdb
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.Form1.resources
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.exe
+D:\Pa uchobe\3 курс\СПКТ-7\ООП\RSA\RSA\obj\Debug\RSA.pdb
